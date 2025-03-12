@@ -1,4 +1,4 @@
-Teste Git
-Teste Pull Git -> PC
-Teste Push PC -> Git
-Teste Push e Commit
+1.Teste Git
+2.Teste Pull Git -> PC
+3.Teste Push PC -> Git
+4.Teste Push e Commit
