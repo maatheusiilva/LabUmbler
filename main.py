@@ -23,7 +23,8 @@ software_blacklist = [
     "Google Chrome",
     "Mozilla Firefox",
     "7-Zip",
-    "VLC media player"
+    "VLC media player",
+    "Adobe Reader"
 ]
 
 # Função para filtrar softwares ignorados pela blacklist
