@@ -1,6 +1,0 @@
-1.Teste Git
-2.Teste Pull Git -> PC
-3.Teste Push PC -> Git
-4.Teste Push e Commit
-5.Teste Print
-6.Teste Print2 
